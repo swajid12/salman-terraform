@@ -1,0 +1,23 @@
+[
+    {
+      "name": "os_version",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "os_release",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "eol",
+      "type": "BOOLEAN",
+      "mode": "NULLABLE"
+    },
+    {
+      "name": "eol_date",
+      "type": "DATE",
+      "mode": "NULLABLE"
+    }
+  ]
+  
