@@ -1,0 +1,5 @@
+project_id        = "karthik-terraform-test"
+function_name     = "aim-test-2"
+entry_point       = "main"
+github_repo_url   = "https://github.com/swajid12/salman-terraform.git"
+github_repo_branch = "main"
